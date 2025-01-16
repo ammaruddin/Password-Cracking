@@ -4,7 +4,7 @@
 
 
 ## Overview
-This lab, conducted by **Mohammed Ammaruddin (am3033, 11652745)**, explores password vulnerabilities by simulating brute force attacks and analyzing common weak passwords. The primary objective is to demonstrate how attackers exploit poor password practices and highlight the importance of using strong, secure passwords.
+This lab, conducted by **Mohammed Ammaruddin**, explores password vulnerabilities by simulating brute force attacks and analyzing common weak passwords. The primary objective is to demonstrate how attackers exploit poor password practices and highlight the importance of using strong, secure passwords.
 
 ---
 
